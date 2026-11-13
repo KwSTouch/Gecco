@@ -1,0 +1,11 @@
+# Infrastructure and deployment files need a review by the tech lead.
+/.github/ @JanBelterman
+/deployment/ @JanBelterman
+/ci-cd/ @JanBelterman
+/.do/ @JanBelterman
+**/Dockerfile* @JanBelterman
+**/cloudbuild*.yaml @JanBelterman
+**/cloudbuild*.yml @JanBelterman
+**/app.yaml @JanBelterman
+**/vercel.json @JanBelterman
+**/fastlane/ @JanBelterman
